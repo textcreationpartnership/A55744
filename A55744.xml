@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paradox against liberty written by the Lords, during their imprisonment in the Tower a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55744</idno>
+            <idno type="STC">Wing P329A</idno>
+            <idno type="STC">ESTC R6016</idno>
+            <idno type="EEBO-CITATION">13087475</idno>
+            <idno type="OCLC">ocm 13087475</idno>
+            <idno type="VID">97316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97316)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paradox against liberty written by the Lords, during their imprisonment in the Tower a poem.</title>
+                  <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+                  <author>Buckingham, George Villiers, Duke of, 1628-1687.</author>
+                  <author>Salisbury, James Cecil, Earl of, d. 1683.</author>
+                  <author>Wharton, Philip Wharton, Baron, 1613-1696.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Vade ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>The Lords are Shaftesbury, Buckingham, Salisbury, Wharton.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97316:1"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:97316:1"/>
+            <!-- PDF PAGE 86 -->
+            <p>A PARADOX Againſt LIBERTY.</p>
+            <p>Written by the Lords, During their Impriſonment In the TOWER.</p>
+            <p>A POEM.</p>
+            <q>
+               <p>Contrahes Vento nimiùm ſecundo</p>
+               <bibl>Turgida Vela.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>James Vade,</hi> at the Cock and Sugar-loaf in <hi>Fleet-ſtreet.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:97316:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="3" facs="tcp:97316:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>A PARODOX Againſt Liberty.</head>
+            <l>
+               <seg rend="decorInit">A</seg> Priſon, or the Iſle, are much the ſame;</l>
+            <l>They onely differ in Conceit and Name.</l>
+            <l>As Art the firſt, Nature Immures the laſt;</l>
+            <l>Onely i'th' larger Mold her Figure's caſt.</l>
+            <l>All Iſlanders are in a Priſon pent,</l>
+            <l>And none at large, not thoſe o'th' Continent.</l>
+            <l>Each Mariner's a Priſoner in his Bark.</l>
+            <l>The living World was priſon'd in the Ark.</l>
+            <l>And though it be abroad adayes, the Light</l>
+            <l>Still lodges in the priſon of black Night.</l>
+            <l>The Sea it ſelf, is to its bounds confin'd,</l>
+            <l>And <hi>Aeolus</hi> in Caves ſhuts up the wind.</l>
+            <l>Nothing in nature has ſuch vaſt Extent,</l>
+            <l>But is impriſon'd in its Element.</l>
+            <l>The Fiſh, in watry Dungeons are inclos'd;</l>
+            <l>Men, Beaſts, and Birds, to Earth and Ayr diſpos'd.</l>
+            <l>If to enlarge their narrow bounds, they ſtrive,</l>
+            <l>The fatal freedome rarely they ſurvive.</l>
+            <l>And as with them, we hope with Us 'twill be,</l>
+            <l>When from their Priſons took, Death ſets them free.</l>
+            <pb n="4" facs="tcp:97316:3"/>
+            <!-- PDF PAGE 88 -->
+            <l>Man can no more a native freedome boaſt;</l>
+            <l>That Jewel ne're was found, ſince firſt 'twas loſt.</l>
+            <l>'Twas then tranſported to the <hi>Stygian</hi> Coaſt.</l>
+            <l>But ſtill there's ſomething which we do eſteem,</l>
+            <l>Onely becauſe 'tis like the poliſht Gemme,</l>
+            <l>And this we Freedome call; its credit grows</l>
+            <l>From a falſe ſtamp, the guilded outſide ſhows:</l>
+            <l>Which avaritious Man attempts to get,</l>
+            <l>Cheated and ruin'd with the Counterfeit.</l>
+            <l>Like Children, Soapy-bubbles they purſue,</l>
+            <l>And the fantaſtick Viſion, take for true;</l>
+            <l>But whilſt they think bright forms they do embrace,</l>
+            <l>
+               <hi>Ixion</hi>-like, they find a cloud i'th' place.</l>
+            <l>Conſent of Crowds, exceeding credit brings,</l>
+            <l>And ſeems to ſtamp Truth's Image on falſe things.</l>
+            <l>Not what's a real good, but what does ſeem,</l>
+            <l>Still ſhares the blind and popular eſteem.</l>
+            <l>Whilſt Senſe and Fancy over-rule their choice,</l>
+            <l>And Reaſon in th' Election has no voice.</l>
+            <l>But Souls in vain have Reaſon's Attribute,</l>
+            <l>If to their Rule, they cannot Senſe ſubmit.</l>
+            <l>Hence the Heroick mind makes no complaint,</l>
+            <l>But freedom does enjoy, even in reſtraint.</l>
+            <l>When Chains and Fetters do his Body bind,</l>
+            <l>He then appears more free, and leſs confin'd.</l>
+            <l>Diſcord and Care, which do diſtract him here,</l>
+            <l>In durance take their leave, and come not there.</l>
+            <pb n="5" facs="tcp:97316:3"/>
+            <!-- PDF PAGE 88 -->
+            <l>Falſe Friends and Flatt'rers, then, take laſt adieu,</l>
+            <l>Who often ſwore how faithful and how true.</l>
+            <l>Things their diſhoneſt boſoms never knew.</l>
+            <l>Theſe, like the Swallows, in cold weather flye;</l>
+            <l>A Summers fortune onely draws them nigh.</l>
+            <l>Flatt'rers a ſort of fatal Suckers be,</l>
+            <l>Which draw the Sap 'till they deſtroy the Tree.</l>
+            <l>Fair Vertue to their Opticks when they bring,</l>
+            <l>Seems a deform'd and antiquated thing.</l>
+            <l>Vice they commend, whilſt Vertue is deſpis'd;</l>
+            <l>The blackeſt by theſe Negroes moſt are pris'd.</l>
+            <l>Theſe ſlaves to Vice, do hug ſo hard and long,</l>
+            <l>Till like the o'refond Ape, they kill their Young.</l>
+            <l>Ambition in the Mind's a Fevriſh Thirſt,</l>
+            <l>Which is by drinking, dryer than at firſt;</l>
+            <l>And theſe will feed the humour till it burſt.</l>
+            <l>When Paraſites the Arbiters are made,</l>
+            <l>They'l place the Garland on a Bedlam's head.</l>
+            <l>Riot, Exceſs, and Pleaſure car' the Day,</l>
+            <l>And Luſt (the worſt of Tyrants) bears the ſway,</l>
+            <l>At whoſe black Throne they blind Allegiance pay.</l>
+            <l>Moroſe and dull they do account the Grave;</l>
+            <l>And the Meek-man, fit only for a Slave:</l>
+            <l>The Humble, of a Nature poor and baſe;</l>
+            <l>The Chaſt, ſprung from a dull inſipid Race;</l>
+            <l>And Temperance, a Gallant's chief diſgrace.</l>
+            <l>In Vertues garb, the great Mans Vice they dreſs,</l>
+            <l>Giving it Names which ſound of Worthineſs.</l>
+            <pb n="6" facs="tcp:97316:4"/>
+            <!-- PDF PAGE 89 -->
+            <l>They call his Pride the Grandeur of his Minde,</l>
+            <l>And for his Luſt the Name they have deſign'd</l>
+            <l>Is a complaiſant Ayr, that makes men kinde.</l>
+            <l>Profaneſs is his Wit; and his Exceſs</l>
+            <l>By a Gay janty Humor they expreſs;</l>
+            <l>All his Debauches too muſt be no leſs.</l>
+            <l>Thus they lap ruine up, and guild our Crimes;</l>
+            <l>But Vice deſtroys, like <hi>Ivy,</hi> where it climbs.</l>
+            <l>In us, the dang'rous ſtate th'Ambitious ſee</l>
+            <l>Of Greatneſs, Avarice, and Flatterie.</l>
+            <l>Gifts, Honours, Office, Greatneſs, Grace of Kings,</l>
+            <l>Raiſe the Ambitious upon treach'rous wings;</l>
+            <l>'Till from the mighty heights they giddy grow,</l>
+            <l>And fall into the Ruine lyes below.</l>
+            <l>If the firſt fail, which do ſupport our ſtate,</l>
+            <l>The laſt our Fall ſerve to precipitate.</l>
+            <l>This with too dear Experience we have bought,</l>
+            <l>And learnt a Leſſon, which too late was taught.</l>
+            <l>Proſperity's a Drug, that muſt be ta'ne</l>
+            <l>Corrected, (<hi>Opium</hi>-like) or elſe 'tis bane.</l>
+            <l>A more <hi>Lethargick</hi> quality's in her,</l>
+            <l>Than ever yet in <hi>Opium</hi> did appear.</l>
+            <l>Her fatal Poyſon to the Minde ſhe ſends,</l>
+            <l>And uncorrect, in ſure deſtruction ends.</l>
+            <l>Whilſt in the way her guilded ſnares ſhe lays,</l>
+            <l>Eaſie and credulous Man ſhe ſoon betrays;</l>
+            <l>Who ſees her Roſes and her Lilies here,</l>
+            <l>But her concealed Snakes doth never fear.</l>
+            <pb n="7" facs="tcp:97316:4"/>
+            <!-- PDF PAGE 89 -->
+            <l>Proſperity's repaſts puff up the Mind</l>
+            <l>With unſubſtantial and unwholſome wind.</l>
+            <l>'Tis a <hi>Hault-Gouſt</hi> which <hi>Epicures</hi> do uſe,</l>
+            <l>And choicer Viands ſqueamiſhly refuſe.</l>
+            <l>But when Affliction moulds your dayly bread,</l>
+            <l>'Tis then the ſtaff of Life with which ſhe's fed.</l>
+            <l>Affliction (like the river <hi>Nile</hi>) beſtows</l>
+            <l>Her fruitful bleſſings whereſoe'er ſhe flows:</l>
+            <l>And if when ſhe withdraws, ſtrange Serpents riſe,</l>
+            <l>Not in her ſtreams, but in the Soyl, it lyes.</l>
+            <l>Which (like the great <hi>Apollo</hi>) ſhe ſtrikes dead,</l>
+            <l>By the ſame Influence they firſt were bred,</l>
+            <l>If ſhe return, and ſhew her hidden head.</l>
+            <l>Great Minds (like the victorious Palms) are wont</l>
+            <l>Under the Weights of Fortune more to mount.</l>
+            <l>Strongly ſuppreſt, and hurl'd upon the ground,</l>
+            <l>Fill'd with ſublimer thoughts they more rebound.</l>
+            <l>Still careleſs whether Fortune ſmile or frown,</l>
+            <l>Whether ſhe give, or take away a Crown.</l>
+            <l>Our Walls are Tyded, and by that we know</l>
+            <l>She always ebbs, when ſhe doth leave to flow,</l>
+            <l>And conſtant in Inconſtancy does grow.</l>
+            <l>Make an attacque all Injuries that can,</l>
+            <l>They fall like Waves beneath a riſing Swan.</l>
+            <l>Freed and ſecur'd from all diſcordant Care,</l>
+            <l>Here we our heads above the billows bear,</l>
+            <l>Till from our ſhoulders they tranſplanted are.</l>
+            <pb n="8" facs="tcp:97316:5"/>
+            <!-- PDF PAGE 90 -->
+            <l>And from their ſummits, with dumb gapes proclaim,</l>
+            <l>Of a Quincumvirat the trait'rous ſhame.</l>
+            <l>But during all this Storm, we ſtill do find</l>
+            <l>An Anchor and a Haven in our Mind,</l>
+            <l>Not beaten now, though then expos'd to th' Wind.</l>
+            <l>As Nightingals, our boſoms we expoſe,</l>
+            <l>And ſing, environ'd with the ſharpeſt woes.</l>
+            <l>Degraded from vain Honour, here we grow</l>
+            <l>More great and high, as Trees by lopping do.</l>
+            <l>Honour's like froth in each Man's glaſs of Beer;</l>
+            <l>'Tis leaſt of uſe, though topmoſt it appear.</l>
+            <l>The common Vouchee for ill acts ſhe's grown;</l>
+            <l>It and Religion all our Miſchiefs own.</l>
+            <l>She raigns in Youth with an unruly heat,</l>
+            <l>And in her falſer Mirror ſhews them Great,</l>
+            <l>Till Age and Time convince them of the Cheat.</l>
+            <l>Raſh heads approve what ſober Men deſpiſe,</l>
+            <l>And the fantaſtick Garb offends the Wiſe;</l>
+            <l>She rarely now is ſeen, but in Diſguiſe.</l>
+            <l>True Honour and plain Honeſty's the ſame;</l>
+            <l>From various Dwellings, comes the various Name:</l>
+            <l>For whilſt ſhe's gay in Courts, ſhe's Honour there,</l>
+            <l>But Honeſty with us in Durance here.</l>
+            <l>In differing States, moſt things have difference:</l>
+            <l>What pleas'd this day, the next offends the Prince.</l>
+            <l>The Proſperous loath what the Afflicted love;</l>
+            <l>Priſoners abhor, what free, they did approve.</l>
+            <pb n="9" facs="tcp:97316:5"/>
+            <!-- PDF PAGE 90 -->
+            <l>And ſtill there's power in each Man's choice, to make</l>
+            <l>Himſelf content, if he can wiſely take,</l>
+            <l>And think his own (though hard) a happy Stake.</l>
+            <l>In ev'ry ſtate does ſome Contentment dwell,</l>
+            <l>And here we find a Palace in a Cell.</l>
+            <l>Good is good ev'ry where, and ev'ry thing,</l>
+            <l>And Good can of it ſelf no Evil bring.</l>
+            <l>All Good's a raye of the firſt Light alone;</l>
+            <l>When Ill approaches, onely that's our own.</l>
+            <l>Vertue's not gain'd by ſpending of our days</l>
+            <l>In pleaſure, Princes Courts, or from their Rays.</l>
+            <l>At Vertue's Coaſt by Travel we arrive,</l>
+            <l>And ſo by Travel Vertue's kept alive.</l>
+            <l>She dwindles if ſhe want due Exerciſe;</l>
+            <l>But us'd, grows brighter, and ſtill multiplies.</l>
+            <l>Vertue increaſes, Snow-ball-like, rowl'd on:</l>
+            <l>A lazy Vertue's next of kin to None.</l>
+            <l>Pris'ners indeed they be, that do lay by</l>
+            <l>At once their Freedom and their Induſtry.</l>
+            <l>If Men turn Drones within theſe hony'd Hyves,</l>
+            <l>It lyes i'th' Pris'ner's heart, and not his Gyves.</l>
+            <l>The Good grow better here, the Bad grow worſe;</l>
+            <l>The Spur that makes this go, does jade that Horſe.</l>
+            <l>Hence the great'ſt part are male-content and ſad,</l>
+            <l>Since that the Good are fewer than the Bad.</l>
+            <l>A Bliſs that ſprings from penitential joy,</l>
+            <l>Is the Minds balſome in each ſharp Annoy;</l>
+            <l>Fools onely their own Comforts do deſtroy.</l>
+            <pb n="10" facs="tcp:97316:6"/>
+            <!-- PDF PAGE 91 -->
+            <l>To this Retirement we can freely go;</l>
+            <l>'Tis the great'ſt pace of Majeſty below:</l>
+            <l>Our ſtirring out imports the World to know.</l>
+            <l>The Goaler's Centinel to guard our Doors,</l>
+            <l>And Caſtles are contain'd i'th' narrow Floors.</l>
+            <l>More happy and more ſafe, ſecur'd from Foes,</l>
+            <l>Than thoſe whom Troops of Enemies encloſe.</l>
+            <l>Much more as Pris'ners, our high bliſs we boaſt,</l>
+            <l>Being ſecur'd from ſuch a mighty Hoaſt</l>
+            <l>Of deadly Foes, ſo fierce with wrath and might,</l>
+            <l>Our ſelves ſo feeble, and unfit to fight</l>
+            <l>'Gainſt the black band of Vicious and Profane,</l>
+            <l>Who Thouſands do undo in each Campain.</l>
+            <l>In the Aſſault, we ſeldome brook the Field,</l>
+            <l>But flye like Hares, or elſe like Cowards yield.</l>
+            <l>Yet this the World eſteems an hard eſtate,</l>
+            <l>And Us, who feel it, count unfortunate.</l>
+            <l>Shew then, Philoſophy! the ſtate wherein</l>
+            <l>Such Safety, and ſo much Content is ſeen.</l>
+            <l>Wherein leſs rugged or ſteep hind'rance lyes,</l>
+            <l>T' obſtruct the Path unto Perfection's prize.</l>
+            <l>The uſeful Rod's only bound up for this,</l>
+            <l>To whip and laſh the Childiſh on to Bliſs;</l>
+            <l>Who ſullenly refuſe the Rod to kiſs,</l>
+            <l>And ſo the Bleſſing in the Whipping miſs.</l>
+            <l>Some, like the Whale, only deſign'd to play</l>
+            <l>In fruitleſs pleaſures, drive the flying day;</l>
+            <l>As Boys with Clackers drive the Lent away.</l>
+            <pb n="11" facs="tcp:97316:6"/>
+            <!-- PDF PAGE 91 -->
+            <l>Whilſt here, we ſtop the hours of Time, that flyes,</l>
+            <l>With Contemplation's nobler Exerciſe.</l>
+            <l>Maugre all Goals, think we e're long muſt dye,</l>
+            <l>And then enjoy an endleſs Liberty;</l>
+            <l>Death will redeem from long Captivity.</l>
+            <l>Man's Life's a Piece ſpun of a various Thred;</l>
+            <l>In ſome 'tis fine, in ſome a courſer Web.</l>
+            <l>The Threds acroſs, th' Occurrences of Fate,</l>
+            <l>Cut early from the Loom by Death, or late.</l>
+            <l>The Dread of Kings, Death, does not us diſmay;</l>
+            <l>To Dye's leſs, than be Tantaliz'd each day.</l>
+            <l>What Man complains, with Wearineſs oppreſt,</l>
+            <l>That Night is come, the only Time to Reſt?</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
